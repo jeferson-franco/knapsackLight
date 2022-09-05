@@ -1,0 +1,20 @@
+{
+  "name": "knapsacklight",
+  "version": "1.0.0",
+  "description": "You found two items in a treasure chest! The first item weighs `weight1` and is worth `value1`, and the second item weighs `weight2` and is worth `value2`. What is the total maximum value of the items you can take with you, assuming that your max weight capacity is `maxW` and you can't come back for the items later?",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/knapsackLight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/knapsackLight/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/knapsackLight#readme"
+}
